@@ -1,4 +1,2 @@
 # ZTP
-Junipter ZTP Project\n
-FILES:
-dhcpd.conf
+Junipter ZTP Project
