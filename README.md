@@ -1,2 +1,3 @@
 # ZTP
-Junipter ZTP Project
+Juniper ZTP Project
+Cisco ZTP Project
